@@ -13,6 +13,7 @@ library
     Agdalisk.Access
     Agdalisk.Subscription
     Agdalisk.Protocol
+    Agdalisk.Route
 
   other-modules:
     MAlonzo.RTE
@@ -32,6 +33,7 @@ library
     MAlonzo.Code.Ace.Access
     MAlonzo.Code.Ace.Subscription
     MAlonzo.Code.Ace.Protocol
+    MAlonzo.Code.Ace.Route
 
   hs-source-dirs:   src, generated
   default-language: Haskell2010

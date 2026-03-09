@@ -4,6 +4,7 @@ module Main where
 open import Ace.Access
 open import Ace.Subscription
 open import Ace.Protocol
+open import Ace.Route
 
 open import Agda.Builtin.IO
 open import Agda.Builtin.Unit
