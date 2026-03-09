@@ -1,5 +1,5 @@
 cabal-version:      2.4
-name:               ace-verified
+name:               agdalisk
 version:            0.1.0.0
 synopsis:           Agda-verified core types for the Ace platform
 description:
@@ -10,9 +10,9 @@ build-type:         Simple
 
 library
   exposed-modules:
-    AceVerified.Access
-    AceVerified.Subscription
-    AceVerified.Protocol
+    Agdalisk.Access
+    Agdalisk.Subscription
+    Agdalisk.Protocol
 
   other-modules:
     MAlonzo.RTE

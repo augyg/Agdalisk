@@ -6,7 +6,7 @@
 -- unrepresentable — the type system IS the state diagram.
 --
 -- Source: agda/Ace/Subscription.agda
-module AceVerified.Subscription
+module Agdalisk.Subscription
   ( -- * Subscription states
     SubState
   , pattern Free

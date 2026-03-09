@@ -7,7 +7,7 @@
 -- guarantees every action is handled.
 --
 -- Source: agda/Ace/Protocol.agda
-module AceVerified.Protocol
+module Agdalisk.Protocol
   ( -- * API actions
     ApiAction
   , pattern GetProfile

@@ -6,7 +6,7 @@
 -- All proofs are erased at runtime — zero overhead.
 --
 -- Source: agda/Ace/Access.agda
-module AceVerified.Access
+module Agdalisk.Access
   ( -- * Roles
     Role
   , pattern Admin
